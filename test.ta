@@ -1,6 +1,0 @@
-tests:
-  - uuid: 9d7b9de0-65ac-4a9f-9af3-fd52a4a38abc
-    path: csqushjunit/src.test.java.com.mie.CalculatorTest#multiFailure
-
-  - uuid: 239dba0c-62a9-4e77-9e0c-27b305bc712f
-    path: com.mie.tests.PanierTest.testAjouterArticle

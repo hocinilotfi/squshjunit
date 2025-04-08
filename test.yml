@@ -1,0 +1,3 @@
+tests:
+  - uuid: 0bbd00f6-e474-4c5f-a115-c8339ce19675
+    path: csqushjunit/src.test.java.com.mie.CalculatorTest#multiFailure
