@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 public class CalculatorTest {
     @Test
-    @DisplayName("TC01 - test de somme")
+    @DisplayName("TC_001")
     public void multiFailure(){
         int a = 5;
         int b = 2;
