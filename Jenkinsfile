@@ -5,6 +5,9 @@ pipeline{
             args "--entrypoint ''"
         }
     }
+    parameters {
+    string(name: 'mode', defaultValue: 'list', description: 'Mode d\'exécution')
+  }
     stages{
         // stage('check version'){
         //     steps{
